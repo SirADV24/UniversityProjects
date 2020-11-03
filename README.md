@@ -1,3 +1,4 @@
-# UniversityProjects
+# University-Projects
 
-Projects/Homework done in the second year of uni
+All of my university Laboratories
+
