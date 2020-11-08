@@ -1,0 +1,1 @@
+The client sends to the server a string and two numbers (s, I, l). The sever returns to the client the substring of s starting at index I, of length l.
