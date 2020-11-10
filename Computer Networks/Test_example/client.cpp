@@ -7,11 +7,9 @@
 #include <sys/socket.h>
 #include <stdio.h>
 #include <netinet/in.h>
-#include <netinet/ip.h>
 #include <string.h>
 #include <arpa/inet.h>
 #include <thread>
-#include <stack>
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <time.h>
